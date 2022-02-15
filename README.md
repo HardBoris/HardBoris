@@ -8,4 +8,14 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/borisgaibor/)
 - 😄 Pronouns: He, Ele, Él
 - ⚡ Fun fact: I like the livestock
+- 💼 My codes with group
+  - 🧘‍♀️ [Feeling](https://github.com/GuiCoutoSt/feeling.)
+  - 🫒 [Better Life](https://github.com/danielmsatiro/better-life)
+  - #️⃣ [Lig 4](https://github.com/Kenzie-Academy-Brasil-Developers/entrega-lig-4-sprint-5-gbmiranda1)
+- 🤠 My Codes
+  - 🍔 [Hamburgueria](https://github.com/HardBoris/HardBoris-Hamburgueria)
+  - 🇻🇳 [Torres de Hanoi](https://github.com/Kenzie-Academy-Brasil-Developers/entrega-torre-de-hanoi-sprint-5-HardBoris)
+  - 🪙 [Caça Niquels](https://github.com/Kenzie-Academy-Brasil-Developers/entrega-construa-um-jogo-de-azar-sprint-3-HardBoris)
+  - ❤️ [My First Code](https://github.com/HardBoris/lanzamiento-de-dados)
+
 
