@@ -1,8 +1,8 @@
 ## Hi there, I'm Boris Gaibor 👋
 ### Welcome to my GitHub profile.
 
-- 🔭 I’m currently working on Kenzie Academy Brasil
-- 🌱 I’m currently learning Python
+- 🔭 I’m currently working at IATec
+- 🌱 I’m currently learning Aurelia JS
 - 🌎 Born at Equador, naturalized Brazilian
 - 💬 Ask me about HTML, CSS, JavaScript, TypeScript, React, Math
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/borisgaibor/)
