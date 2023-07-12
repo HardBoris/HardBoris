@@ -19,6 +19,13 @@
   - 🪙 [Caça Niquels](https://github.com/Kenzie-Academy-Brasil-Developers/entrega-construa-um-jogo-de-azar-sprint-3-HardBoris)
   - ❤️ [My First Code](https://github.com/HardBoris/lanzamiento-de-dados)
 
+## Tecnologies and Tools
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+            
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+          
+          
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HardBoris&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
