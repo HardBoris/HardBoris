@@ -20,21 +20,9 @@
   - ❤️ [My First Code](https://github.com/HardBoris/lanzamiento-de-dados)
 
 ## Tecnologies and Tools
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-            
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
-          
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
                    
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardBoris&layout=compact)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardBoris&layout=compact&theme=blueberry)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HardBoris&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HardBoris&show_icons=true&theme=blueberry)
 
