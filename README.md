@@ -9,7 +9,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/borisgaibor/)
 - 😄 Pronouns: He, Ele, Él
 - ⚡ Fun fact: I like the livestock
-- 💼 My codes with group
+- 💼 My group's codes
   - 🧘‍♀️ [Feeling](https://github.com/GuiCoutoSt/feeling.)
   - 🫒 [Better Life](https://github.com/danielmsatiro/better-life)
   - #️⃣ [Lig 4](https://github.com/Kenzie-Academy-Brasil-Developers/entrega-lig-4-sprint-5-gbmiranda1)
