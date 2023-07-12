@@ -3,6 +3,7 @@
 
 - 🔭 I’m open to work
 - 🌱 I like NodeJs for BackEnd e React for FrontEnd
+- 🎯 I like style my components with Pure CSS
 - 🌎 Born at Equador, naturalized Brazilian
 - 💬 Ask me about HTML, CSS, JavaScript, TypeScript, React, Math
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/borisgaibor/)
