@@ -32,16 +32,9 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="40" height="40"/>
           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-          
-          
-          
-<div>
-<a href="https://github.com/HardBoris">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HardBoris&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HardBoris&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>          
+                   
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardBoris&layout=compact)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HardBoris&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
