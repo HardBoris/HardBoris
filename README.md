@@ -22,7 +22,6 @@
 ## Tecnologies and Tools
                    
 
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HardBoris&layout=compact&theme=blueberry)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HardBoris&show_icons=true&theme=blueberry)
 
